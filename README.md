@@ -1,20 +1,16 @@
 ```markdown
-# Customer Shopping Behavior Analysis
+Customer Shopping Behavior Analysis
 
 A complete end-to-end data analytics project analyzing customer shopping patterns using Python, SQL Server, and Power BI. The project covers data loading, EDA, cleaning, SQL analysis, dashboard creation, insight reporting, and final presentation using Gamma.
 
----
-
-## 🚀 Overview
+🚀 Overview
 This project explores customer purchasing behaviour across ~3,900 transactions to uncover insights on spending patterns, product preference, segmentation, and subscription trends.  
 It demonstrates the full analytics workflow and showcases practical skills for real-world business analysis.
 
----
-
-## 📂 Dataset
-- **Rows:** ~3,900 transactions  
-- **Features:** purchase_amount, category, previous_purchases, subscription_status, discount_applied, item_purchased, etc.  
-- **Source:** Provided dataset  
+📂 Dataset
+  - Rows: 3,900 transactions  
+  - Features: purchase_amount, category, previous_purchases, subscription_status, discount_applied, item_purchased, etc.  
+  - Source: Provided dataset  
 
 ---
 
