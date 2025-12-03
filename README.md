@@ -1,5 +1,3 @@
-Here is your **GitHub-ready README.md** in a clean Markdown code block — just copy and paste into GitHub:
-
 ```markdown
 # Customer Shopping Behavior Analysis
 
