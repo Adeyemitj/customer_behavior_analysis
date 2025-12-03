@@ -16,7 +16,39 @@ It demonstrates the full analytics workflow and showcases practical skills for r
 - **SQL Server (T-SQL)** – Segmentation, aggregations, behavioural analysis  
 - **Power BI** – Interactive dashboard  
 - **Gamma App** – Project presentation deck  
+- **Jupyter Notebook** – Data exploration & documentation
+
+
+ # Customer Shopping Behavior Analysis
+
+A complete end-to-end data analytics project analyzing customer shopping patterns using Python, SQL Server, and Power BI. The project covers data loading, EDA, cleaning, SQL analysis, dashboard creation, insight reporting, and final presentation using Gamma.
+
+---
+
+## 🚀 Overview
+This project explores customer purchasing behaviour across ~3,900 transactions to uncover insights on spending patterns, product preference, segmentation, and subscription trends.  
+It demonstrates the full analytics workflow and showcases practical skills for real-world business analysis.
+
+---
+
+## 📂 Dataset
+- **Rows:** ~3,900 transactions  
+- **Features:** purchase_amount, category, previous_purchases, subscription_status, discount_applied, item_purchased, etc.  
+- **Source:** Provided dataset  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Python** – Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL Server (T-SQL)** – Segmentation, aggregations, behavioural analysis  
+- **Power BI** – Interactive dashboard  
+- **Gamma App** – Project presentation deck  
 - **Jupyter Notebook** – Data exploration & documentation  
+
+---
+
+## 📘 Project Structure
+
 
 📘 Project Structure
 📁 Customer-Shopping-Behavior-Analysis
