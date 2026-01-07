@@ -118,5 +118,5 @@ It demonstrates the full analytics workflow and showcases practical skills for r
 
 📧 Contact
 Taiwo Adeyemi
-adeywins2005@gmail.com | [Linkedin](https://www.linkedin.com/in/taiwo-adeyemi-22357aaa/) | [Portfolio](https://taiwodatamodel.github.io/)
+taiwo.datamodel@gmail.com | [Linkedin](https://www.linkedin.com/in/taiwo-adeyemi-22357aaa/) | [Portfolio](https://taiwodatamodel.github.io)
 
